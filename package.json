@@ -69,7 +69,7 @@
     "hammerjs": "^2.0.8",
     "jsonwebtoken": "^8.1.0",
     "mongodb": "^2.2.33",
-    "mongoose": "^4.13.7",
+    "mongoose": "^5.7.5",
     "ngx-facebook": "^2.4.0",
     "ngx-siema": "^2.0.1",
     "passport": "^0.4.0",
